@@ -1,1 +1,1 @@
-#practice waaye
+#Day one paractice in jacascript
